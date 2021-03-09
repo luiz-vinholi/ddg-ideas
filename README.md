@@ -1,5 +1,5 @@
 # DEP Ideas
-Delivery Enhancement Proposal **Ideas**.
+Delivery Enhancement Proposal **Ideas**.  
 Vem explanar sua ideia!
 
 ## Resumo
